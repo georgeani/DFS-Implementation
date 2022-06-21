@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AI_Coursework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AI_Coursework_jar</output-path>
+    <root id="archive" name="AI Coursework.jar">
+      <element id="module-output" name="AI Coursework" />
+    </root>
+  </artifact>
+</component>
